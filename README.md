@@ -29,15 +29,15 @@ Lucemon Desktop is a comprehensive database application designed to provide Digi
   - Buff and requirement tracking
   - Deck composition analysis
 
-- **� Seal System**: Advanced seal management with:
+- **🔒 Seal System**: Advanced seal management with:
   - Search and filter by stat categories (HP, DS, AT, CT, HT, DE, EV, BL)
   - Detailed seal information and bonuses
   - Stat bonus calculations and maximum values
 
 ### Coming Soon Features
-- **� Clone Calculator**: Multi-mode clone calculation system
+- **🔬 Clone Calculator**: Multi-mode clone calculation system
 - **📦 Item Database**: Complete item browsing and management
-- **�🛡️ D-Unit**: D-Unit management and tracking
+- **🛡️ D-Unit**: D-Unit management and tracking
 - **🔔 Reminders**: Event and task reminder system
 
 ### Technical Features
