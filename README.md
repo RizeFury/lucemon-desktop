@@ -141,7 +141,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 | Version | Type | Release Date | Highlights |
 |---------|------|--------------|------------|
-| v1.2509.1-beta.18 | Beta | Sep 2025 | Latest features with stricter channel separation |
+| v1.2509.1-beta.25 | Beta | Sep 2025 | Latest features with stricter channel separation |
 
 ### Getting Updates
 
