@@ -4,7 +4,6 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/RizeFury/lucemon-desktop?label=Latest%20Version)](https://github.com/RizeFury/lucemon-desktop/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/RizeFury/lucemon-desktop/total?label=Downloads)](https://github.com/RizeFury/lucemon-desktop/releases)
-[![License](https://img.shields.io/github/license/RizeFury/lucemon-desktop)](LICENSE)
 
 ## 📖 About
 
