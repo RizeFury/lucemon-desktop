@@ -57,14 +57,28 @@ Lucemon Desktop is a comprehensive database application designed to provide Digi
 - **RAM**: 4GB minimum
 - **Storage**: 100MB available space
 
-### Latest Release
+## 📊 Release History
 
-**[📱 Download Latest Version](https://github.com/RizeFury/lucemon-desktop/releases/latest)**
+### Recent Releases
+
+| Version | Type | Release Date | Highlights |
+|---------|------|--------------|------------|
+| vX.XXXX.X | Stable | --- 2025 | Most stable with tested features |
+| [v1.2509.1-beta.50](https://github.com/RizeFury/lucemon-desktop/releases/tag/v1.2509.1-beta.50) | Beta | Sep 2025 | Mostly stable with no tested features |
+
+---
 
 1. Download the latest `.exe` installer from the releases page
 2. Run the installer as Administrator
 3. Follow the installation wizard
 4. Launch Lucemon Desktop from your Start Menu or Desktop
+
+### Getting Updates
+
+Lucemon Desktop automatically checks for updates and will notify you when new versions are available. You can also:
+
+1. **Check manually**: Go to **Help** → **Check for Updates**
+2. **Change update channel**: Go to **Settings** → **Update Management**
 
 ## 🚀 Release Channels
 
@@ -133,24 +147,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Developed by**: [RizeFury](https://github.com/RizeFury)  
 **Community**: Thanks to all our beta testers and contributors!
 
----
 
-## 📊 Release History
-
-### Recent Releases
-
-| Version | Type | Release Date | Highlights |
-|---------|------|--------------|------------|
-| v1.2509.1-beta.25 | Beta | Sep 2025 | Latest features with stricter channel separation |
-
-### Getting Updates
-
-Lucemon Desktop automatically checks for updates and will notify you when new versions are available. You can also:
-
-1. **Check manually**: Go to **Help** → **Check for Updates**
-2. **Change update channel**: Go to **Settings** → **Update Management**
-
----
 
 <div align="center">
 
