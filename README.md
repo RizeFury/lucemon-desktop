@@ -2,8 +2,13 @@
 
 > A comprehensive database and information tool for Digimon Masters Online players
 
+<div align="center">
+  
+![Lucemon Desktop](LucemonDesktop.png)
 [![Latest Release](https://img.shields.io/github/v/release/RizeFury/lucemon-desktop?label=Latest%20Version)](https://github.com/RizeFury/lucemon-desktop/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/RizeFury/lucemon-desktop/total?label=Downloads)](https://github.com/RizeFury/lucemon-desktop/releases)
+
+</div>
 
 ## 📖 About
 
