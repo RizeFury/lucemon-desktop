@@ -25,19 +25,18 @@ Lucemon Desktop is a comprehensive database application designed to provide Digi
 
 - **🃏 Deck Management**: Full deck system featuring:
   - Deck browsing with Digimon lineup display
-  - Buff and requirement tracking
-  - Deck composition analysis
+  - Buff and requirements
 
 - **🔒 Seal System**: Advanced seal management with:
   - Search and filter by stat categories (HP, DS, AT, CT, HT, DE, EV, BL)
   - Detailed seal information and bonuses
-  - Stat bonus calculations and maximum values
+  - Stat bonus calculations and maximum values (Pending)
 
 ### Coming Soon Features
 - **🔬 Clone Calculator**: Multi-mode clone calculation system
-- **📦 Item Database**: Complete item browsing and management
-- **🛡️ D-Unit**: D-Unit management and tracking
-- **🔔 Reminders**: Event and task reminder system
+- **📦 Item Database**: Important only item browsing
+- **🛡️ D-Unit**: D-Unit information
+- **🔔 Reminders**: Event reminder system
 
 ### Technical Features
 - **📡 Multiple Release Channels**: Choose between Stable and Beta releases
