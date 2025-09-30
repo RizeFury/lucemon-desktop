@@ -32,15 +32,18 @@ Lucemon Desktop is a comprehensive database application designed to provide Digi
   - Deck browsing with Digimon lineup display
   - Buff and requirements
 
-- **🔒 Seal System**: Advanced seal management with:
+- **🔒 Seal System**: Advanced seal with:
   - Search and filter by stat categories (HP, DS, AT, CT, HT, DE, EV, BL)
   - Detailed seal information and bonuses
   - Stat bonus calculations and maximum values (Pending)
+ 
+- **🛡️ D-Unit**: D-Unit information
+  - Search and filter by stats
+  - D-Unit requirement information
 
 ### Coming Soon Features
 - **🔬 Clone Calculator**: Multi-mode clone calculation system
 - **📦 Item Database**: Important only item browsing
-- **🛡️ D-Unit**: D-Unit information
 - **🔔 Reminders**: Event reminder system
 
 ### Technical Features
@@ -67,7 +70,7 @@ Lucemon Desktop is a comprehensive database application designed to provide Digi
 | Version | Type | Release Date | Highlights |
 |---------|------|--------------|------------|
 | vX.XXXX.X | Stable | --- 2025 | Most stable with tested features |
-| [v1.2509.1-beta.52](https://github.com/RizeFury/lucemon-desktop/releases/tag/v1.2509.1-beta.52) | Beta | Sep 2025 | Mostly stable with no tested features |
+| [v1.2509.1-beta.56](https://github.com/RizeFury/lucemon-desktop/releases/tag/v1.2509.1-beta.56) | Beta | Sep 2025 | Mostly stable with no tested features |
 
 ---
 
