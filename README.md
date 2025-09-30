@@ -144,16 +144,10 @@ While this repository is primarily for releases, we welcome:
 - 🌐 **Translations** - Help us support more languages
 - 📖 **Documentation** - Improve our guides and help docs
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👥 Credits
 
 **Developed by**: [RizeFury](https://github.com/RizeFury)  
 **Community**: Thanks to all our beta testers and contributors!
-
-
 
 <div align="center">
 
