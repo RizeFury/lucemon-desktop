@@ -14,46 +14,6 @@
 
 Lucemon Desktop is a comprehensive database application designed to provide Digimon Masters Online players with easy access to game information. Browse detailed Digimon stats, explore tamer abilities, manage deck information, and access seal data all in one modern, user-friendly interface.
 
-## ✨ Features
-
-### Core Database Features
-- **🐲 Digimon Database**: Complete search and filter system with:
-  - Detailed stats, skills, and passive abilities
-  - Advanced filtering by type, attribute, level, and more
-  - Individual Digimon detail modals with comprehensive information
-  - Search by name, description, and characteristics
-
-- **👤 Tamer Database**: Comprehensive tamer information with:
-  - Detailed tamer stats and abilities
-  - Skill and passive browsing
-  - Complete tamer profiles and information
-
-- **🃏 Deck Management**: Full deck system featuring:
-  - Deck browsing with Digimon lineup display
-  - Buff and requirements
-
-- **🔒 Seal System**: Advanced seal with:
-  - Search and filter by stat categories (HP, DS, AT, CT, HT, DE, EV, BL)
-  - Detailed seal information and bonuses
-  - Stat bonus calculations and maximum values (Pending)
- 
-- **🛡️ D-Unit**: D-Unit information
-  - Search and filter by stats
-  - D-Unit requirement information
-
-### Coming Soon Features
-- **🔬 Clone Calculator**: Multi-mode clone calculation system
-- **📦 Item Database**: Important only item browsing
-- **🔔 Reminders**: Event reminder system
-
-### Technical Features
-- **📡 Multiple Release Channels**: Choose between Stable and Beta releases
-- **🔄 Automatic Updates**: Stay up-to-date with the latest features and improvements
-- **🌍 Multi-language Support**: Available in English, Spanish, and Portuguese
-- **🎨 Modern UI**: Clean, responsive interface with dark/light theme support
-- **⚡ Real-time Data**: Live connection to our own DMO database with caching for performance
-- **📱 Responsive Design**: Works seamlessly on different screen sizes
-
 ## 📥 Download & Installation
 
 ### System Requirements
@@ -69,8 +29,8 @@ Lucemon Desktop is a comprehensive database application designed to provide Digi
 
 | Version | Type | Release Date | Highlights |
 |---------|------|--------------|------------|
-|  | Stable | XXX 2025 | Most stable with tested features |
-| [v1.2511.0-beta.2](https://github.com/RizeFury/lucemon-desktop/releases/tag/v1.2511.0-beta.2) | Beta | Nov 2025 | Mostly stable with no tested features |
+| [v1.2511.1](https://github.com/RizeFury/lucemon-desktop/releases/tag/v1.2511.1) | Stable | 13 Nov 2025 | Most stable with tested features |
+| [v1.2511.0-beta.3](https://github.com/RizeFury/lucemon-desktop/releases/tag/v1.2511.0-beta.3) | Beta | 13 Nov 2025 | Mostly stable with no tested features |
 
 ---
 
@@ -103,6 +63,41 @@ We offer different release channels to suit your needs:
 - **Stability**: ⭐⭐⭐⭐
 
 > **Note**: You can switch between channels in the application settings under **Update Management**.
+
+## ✨ Features
+
+### Core Database Features
+- **🐲 Digimon Database**: Complete search and filter system with:
+  - Detailed stats, skills, and passive abilities
+  - Advanced filtering by type, attribute, level, and more
+  - Individual Digimon detail modals with comprehensive information
+  - Search by name, description, and characteristics
+
+- **👤 Tamer Database**: Comprehensive tamer information with:
+  - Detailed tamer stats and abilities
+  - Skill and passive browsing
+  - Complete tamer profiles and information
+
+- **🃏 Deck Management**: Full deck system featuring:
+  - Deck browsing with Digimon lineup display
+  - Buff and requirements
+
+- **🔒 Seal System**: Advanced seal with:
+  - Search and filter by stat categories (HP, DS, AT, CT, HT, DE, EV, BL)
+  - Detailed seal information and bonuses
+  - Stat bonus calculations and maximum values (Pending)
+ 
+- **🛡️ D-Unit**: D-Unit information
+  - Search and filter by stats
+  - D-Unit requirement information
+
+### Technical Features
+- **📡 Multiple Release Channels**: Choose between Stable and Beta releases
+- **🔄 Automatic Updates**: Stay up-to-date with the latest features and improvements
+- **🌍 Multi-language Support**: Available in English, Spanish, and Portuguese
+- **🎨 Modern UI**: Clean, responsive interface with dark/light theme support
+- **⚡ Real-time Data**: Live connection to our own DMO database with caching for performance
+- **📱 Responsive Design**: Works seamlessly on different screen sizes
 
 ## 🔧 Configuration
 
