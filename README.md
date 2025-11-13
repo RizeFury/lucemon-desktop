@@ -1,4 +1,4 @@
-# 🐉 Lucemon Desktop
+# Lucemon Desktop
 
 > A comprehensive database and information tool for Digimon Masters Online players
 
