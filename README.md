@@ -21,7 +21,7 @@ Lucemon Desktop is a comprehensive database application designed to provide Digi
 - **Operating System**: Windows 10 or later
 - **Architecture**: 64-bit (x64)
 - **RAM**: 4GB minimum
-- **Storage**: 100MB available space
+- **Storage**: 200MB available space
 
 ## 📊 Release History
 
