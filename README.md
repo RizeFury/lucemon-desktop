@@ -35,9 +35,8 @@ Lucemon Desktop is a comprehensive database application designed to provide Digi
 ---
 
 1. Download the latest `.exe` installer from the releases page
-2. Run the installer as Administrator
-3. Follow the installation wizard
-4. Launch Lucemon Desktop from your Start Menu or Desktop
+2. Run the installer
+3. Launch Lucemon Desktop from your Start Menu or Desktop
 
 ### Getting Updates
 
