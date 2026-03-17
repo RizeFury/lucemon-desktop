@@ -29,8 +29,8 @@ Lucemon Desktop is a comprehensive database application designed to provide Digi
 
 | Version | Type | Release Date | Highlights |
 |---------|------|--------------|------------|
-| [v1.2511.6](https://github.com/RizeFury/lucemon-desktop/releases/tag/v1.2511.3) | Stable | 21 Nov 2025 | Most stable with tested features |
-| [v1.2511.0-beta.10](https://github.com/RizeFury/lucemon-desktop/releases/tag/v1.2511.0-beta.5) | Beta | 21 Nov 2025 | Mostly stable with no tested features |
+| [v1.2603.6](https://github.com/RizeFury/lucemon-desktop/releases/tag/v1.2603.6) | Stable | 17 March 2026 | Most stable with tested features |
+| [v1.2603.0-beta.16](https://github.com/RizeFury/lucemon-desktop/releases/tag/v1.2603.0-beta.16) | Beta | 17 March 2026 | Mostly stable with no tested features |
 
 ---
 
