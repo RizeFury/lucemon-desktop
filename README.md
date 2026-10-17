@@ -6,7 +6,7 @@
   
 ![Lucemon Desktop](LucemonDesktop.png)
 [![Latest Stable Release](https://img.shields.io/github/v/release/RizeFury/lucemon-desktop?label=Stable%20Release)](https://github.com/RizeFury/lucemon-desktop/releases)
-[![Downloads](https://img.shields.io/github/downloads/RizeFury/lucemon-desktop/latest/total?label=Downloads)](https://github.com/RizeFury/lucemon-desktop/releases)
+[![Downloads](./badges/downloads.svg)](https://github.com/RizeFury/lucemon-desktop/releases)
 
 </div>
 
